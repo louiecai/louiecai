@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Louie Cai</h1>
-<h3 align="center">Coding's kinda fun I guess.</h3>
+<h3 align="center">To understand what recursion is, you must first understand recursion.</h3>
 
 - 🔭 I’m currently working on **an iOS mobile mini game**
 
