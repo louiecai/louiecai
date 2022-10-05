@@ -1,11 +1,11 @@
 # 💫 About Me :
 - 🔭 I’m currently working on **an iOS mobile mini game**
 
-- 🌱 I’m currently learning **deep learning with PyTorch**
+- 🌱 I’m currently learning about **microcontrollers**
 
-- 📫 How to reach me **louiecai3@gmail.com**
+- 📫 How to reach me: <a href="mailto:louiecai3@gmail.com">louiecai3@gmail.com</a>
 
-- 📄 Learn about my experiences [LinkedIn](www.linkedin.com/in/louie-cai)
+- 📄 Visit my [**website**](https://louiecai.com) to learn more about me!
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/louie-cai) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/TensorFlow719) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/tensorflow719) 
