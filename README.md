@@ -21,11 +21,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=louiecai&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=louiecai&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+<!-- ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="256px"/>
-
+ -->
 ---
 [![](https://visitcount.itsvg.in/api?id=louiecai&icon=3&color=1)](https://visitcount.itsvg.in)
