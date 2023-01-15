@@ -27,5 +27,3 @@
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="256px"/>
  -->
----
-[![](https://visitcount.itsvg.in/api?id=louiecai&icon=3&color=1)](https://visitcount.itsvg.in)
